@@ -8,7 +8,7 @@ The team-info bot is a [hook.io](http://hook.io) Javascript microservice that sc
   1. From your hook main page, click 'Create Hook'
   2. Name your hook
   3. Make sure the selected language is set to JavaScript
-  4. Paste in the text of the team-info-bot, or use the provided [Gist](https://gist.github.com/PChild/5266ebd48443b568a50ee2ecb4e19cae).
+  4. Paste in the text of the [team-info](team-info.js), or use the provided [Gist](https://gist.github.com/PChild/5266ebd48443b568a50ee2ecb4e19cae).
   5. Click 'Create new Hook'
   6. Scroll to the 'Service URL' section, and copy the 'Home' URL for use in slack
   
