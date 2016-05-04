@@ -1,6 +1,16 @@
 # team-info-bot
 The team-info bot is a [hook.io](http://hook.io) Javascript microservice that scrapes data from [The Blue Alliance](http://thebluealliance.com) and posts it into [slack](http://slack.com) channels.
 
+Here's an example of the data returned by the bot:
+
+>team-info BOT [3:49 PM]  
+>@pchild, here's your info:  
+>Team 401 - Copperhead Robotics  
+>Overall, team 401 was 38-22-0 in 2016.  
+>http://www.thebluealliance.com/team/401  
+
+All code for the bot is available in the [team-info](team-info.js) file, and the rest of this README will cover setting up the bot on your own slack team. 
+
 ## Initial hook.io Setup
 1. Go to hook.io
 2. Create an account
